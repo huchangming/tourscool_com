@@ -1,0 +1,9 @@
+2019-09-19 10:14:15,801 - ToursCool - INFO - 跳过红包领取
+2019-09-19 10:14:16,528 - ToursCool - INFO - 个人中心
+2019-09-19 10:14:17,795 - ToursCool - INFO - 准备登陆
+2019-09-19 10:14:19,619 - ToursCool - INFO - 选择账号密码登陆
+2019-09-19 10:14:21,059 - ToursCool - INFO - 输入账号
+2019-09-19 10:14:26,115 - ToursCool - INFO - 输入密码
+2019-09-19 10:14:31,290 - ToursCool - INFO - 登入
+2019-09-19 10:14:40,898 - ToursCool - INFO -  test_login 测试通过
+2019-09-19 10:15:13,694 - ToursCool - ERROR -  test_pro_del 用例不通过:=====list index out of range

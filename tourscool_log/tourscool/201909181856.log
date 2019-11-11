@@ -1,0 +1,4 @@
+2019-09-18 18:56:40,117 - ToursCool - INFO - 跳过红包领取
+2019-09-18 18:56:50,001 - ToursCool - ERROR -  test_login 用例不通过:=====Message: An element could not be located on the page using the given search parameters.
+
+2019-09-18 18:57:28,197 - ToursCool - ERROR -  test_pro_del 用例不通过:=====list index out of range
