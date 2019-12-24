@@ -18,7 +18,11 @@ lib/
 lib64/
 parts/
 sdist/
+tourscool_log/tourscool/
+tourscool_report/
+error_image/
 var/
+*.pyc
 wheels/
 *.egg-info/
 .installed.cfg

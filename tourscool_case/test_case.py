@@ -19,7 +19,7 @@ def getImage(function):
         except Exception as e:
             time_str_map = now_time.get_times()
             self.driver.get_screenshot_as_file('../tourscool_report/images/%s.png' % time_str_map)
-            print('screenshot:', time_str_map, '.png')
+            print('snapshot:', time_str_map, '.png')
             self.my_log.error(" %s 用例不通过:=====%s" % (function.__name__, str(e)))   # 日志尽量输出详细原始日志
             raise Exception(" %s 测试不通过" % function.__name__)
 
