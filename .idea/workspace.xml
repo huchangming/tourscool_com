@@ -2,11 +2,154 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8b4f16b-cf42-4f9e-b3b2-1d89c2000894" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_create_order2019-09-23-15-45-44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_create_order2019-09-23-16-00-22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_create_order2019-09-23-16-10-05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_ll_search2019-09-23-15-45-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_ll_search2019-09-23-15-59-37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_ll_search2019-09-23-16-09-20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_login2019-09-18-18-34-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_login2019-09-18-18-51-57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_login2019-09-18-18-56-39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_login2019-09-19-10-32-38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_login2019-09-19-10-43-55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_login2019-09-19-15-08-49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_login2019-09-23-15-44-28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_login2019-09-23-15-59-03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_login2019-09-23-16-08-28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_login2019-09-23-16-25-34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_login2019-09-23-16-43-46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_pro_del2019-09-18-18-36-19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_pro_del2019-09-18-18-52-29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_pro_del2019-09-19-10-15-06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_pro_del2019-09-19-10-44-26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/error_image/test_pro_del2019-09-19-15-27-28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201908261127.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201908261144.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201908261816.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201908280934.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201908281657.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201908281658.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201908281700.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201908281817.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201908291602.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201908291608.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909112030.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909170925.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909171431.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909171433.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909171526.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909171549.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909171554.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909171633.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909181722.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909181724.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909181728.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909181736.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909181738.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909181756.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909181800.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909181828.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909181830.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909181832.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909181851.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909181856.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909181858.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909191013.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909191032.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909191043.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909191049.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909191100.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909191103.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909191508.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909191526.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909191620.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909231542.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909231544.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909231558.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909231608.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909231622.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909231624.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909231641.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909231643.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/201909231645.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_log/tourscool/appium.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-08-28-17-00-04.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-08-28-18-17-55.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-08-29-16-02-11.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-08-29-16-08-02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-11-20-30-32.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-17-09-25-11.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-17-14-31-58.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-17-14-33-16.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-17-14-33-50.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-17-15-26-42.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-17-15-49-35.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-17-15-54-45.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-17-16-33-17.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-18-17-24-23.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-18-17-28-11.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-18-17-36-40.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-18-17-38-24.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-18-17-56-06.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-18-18-00-24.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-18-18-28-49.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-18-18-30-16.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-18-18-32-58.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-18-18-51-37.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-18-18-56-08.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-18-18-58-03.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-19-10-13-56.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-19-10-32-10.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-19-10-43-32.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-19-10-49-30.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-19-11-00-35.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-19-11-03-38.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-19-15-08-11.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-19-15-26-04.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-19-16-20-07.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-23-15-44-01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-23-15-58-36.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-23-16-08-01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-23-16-22-21.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-23-16-24-58.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-23-16-41-26.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-23-16-43-17.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/2019-09-23-16-45-04.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-17-15-27-23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-17-15-50-15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-17-15-55-27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-17-16-33-58.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-18-17-25-23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-18-17-39-47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-18-17-57-16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-18-18-34-38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-18-18-36-53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-18-18-52-04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-18-18-52-36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-18-18-56-48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-18-18-57-26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-18-18-59-34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-19-10-15-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-19-10-44-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-19-10-44-32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-19-11-05-05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-19-15-09-49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-19-15-27-35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-23-15-44-35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-23-15-45-50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-23-15-59-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-23-15-59-56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-23-16-00-29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-23-16-09-39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-23-16-10-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-23-16-25-41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-23-16-26-42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-23-16-41-58.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-23-16-43-52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tourscool_report/images/2019-09-23-16-46-43.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tourscool_case/test_case.py" afterPath="$PROJECT_DIR$/tourscool_case/test_case.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/xifan.apk" afterPath="$PROJECT_DIR$/apps/xifan_release.apk" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -93,7 +236,7 @@
         <entry file="file://$PROJECT_DIR$/tourscool_case/test_case.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="99">
-              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+              <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
                 <element signature="e#2330#2360#0" expanded="false" />
@@ -105,8 +248,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+            <state relative-caret-position="364">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -205,7 +348,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tourscool_log" />
+              <option name="myItemId" value="tourscool_case" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -464,6 +607,14 @@
       <option name="presentableId" value="Default" />
       <updated>1566541134838</updated>
     </task>
+    <task id="LOCAL-00001" summary="剔除文件上传">
+      <created>1577158136467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577158136467</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -477,8 +628,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18210863" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18210863" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875144" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -525,6 +677,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="剔除文件上传" />
+    <option name="LAST_COMMIT_MESSAGE" value="剔除文件上传" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -872,7 +1028,7 @@
     <entry file="file://$PROJECT_DIR$/tourscool_case/test_case.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
             <element signature="e#2330#2360#0" expanded="false" />
@@ -882,8 +1038,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        <state relative-caret-position="364">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding />
         </state>
       </provider>

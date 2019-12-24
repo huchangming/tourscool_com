@@ -16,6 +16,7 @@ eggs/
 .eggs/
 lib/
 lib64/
+__pycache__/
 parts/
 sdist/
 tourscool_log/tourscool/
